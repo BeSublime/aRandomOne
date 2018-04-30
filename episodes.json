@@ -1,0 +1,528 @@
+[
+	{
+		"season": 1,
+		"episodes": [
+			{
+				"episode": 1,
+				"title": "The One Where Monica Gets a Roommate (Pilot)",
+				"urls": {
+					"netflix": "/watch/70273997"
+				}
+			},
+			{
+				"episode": 2,
+				"title": "The One with the Sonogram at the End",
+				"urls": {
+					"netflix": "/watch/70273998"
+				}
+			},
+			{
+				"episode": 3,
+				"title": "The One with the Thumb",
+				"urls": {
+					"netflix": "/watch/70273999"
+				}
+			},
+			{
+				"episode": 4,
+				"title": "The One with George Stephanopoulos",
+				"urls": {
+					"netflix": "/watch/70274000"
+				}
+			},
+			{
+				"episode": 5,
+				"title": "The One with the East German Laundry Detergent",
+				"urls": {
+					"netflix": "/watch/70274001"
+				}
+			},
+			{
+				"episode": 6,
+				"title": "The One with the Butt",
+				"urls": {
+					"netflix": "/watch/70274002"
+				}
+			},
+			{
+				"episode": 7,
+				"title": "The One with the Blackout",
+				"urls": {
+					"netflix": "/watch/70274003"
+				}
+			},
+			{
+				"episode": 8,
+				"title": "The One Where Nana Dies Twice",
+				"urls": {
+					"netflix": "/watch/70274004"
+				}
+			},
+			{
+				"episode": 9,
+				"title": "The One Where Underdog Gets Away",
+				"urls": {
+					"netflix": "/watch/70274005"
+				}
+			},
+			{
+				"episode": 10,
+				"title": "The One with the Monkey",
+				"urls": {
+					"netflix": "/watch/70274006"
+				}
+			},
+			{
+				"episode": 11,
+				"title": "The One with Mrs. Bing",
+				"urls": {
+					"netflix": "/watch/70274007"
+				}
+			},
+			{
+				"episode": 12,
+				"title": "The One with the Dozen Lasagnas",
+				"urls": {
+					"netflix": "/watch/70274008"
+				}
+			},
+			{
+				"episode": 13,
+				"title": "The One with the Boobies",
+				"urls": {
+					"netflix": "/watch/70274009"
+				}
+			},
+			{
+				"episode": 14,
+				"title": "The One with the Candy Hearts",
+				"urls": {
+					"netflix": "/watch/70274010"
+				}
+			},
+			{
+				"episode": 15,
+				"title": "The One with the Stoned Guy",
+				"urls": {
+					"netflix": "/watch/70274011"
+				}
+			},
+			{
+				"episode": 16,
+				"title": "The One with the Two Parts: Part 1",
+				"urls": {
+					"netflix": "/watch/70274012"
+				}
+			},
+			{
+				"episode": 17,
+				"title": "The One with the Two Parts: Part 2",
+				"urls": {
+					"netflix": "/watch/70274013"
+				}
+			},
+			{
+				"episode": 18,
+				"title": "The One with All the Poker",
+				"urls": {
+					"netflix": "/watch/70274014"
+				}
+			},
+			{
+				"episode": 19,
+				"title": "The One Where the Monkey Gets Away",
+				"urls": {
+					"netflix": "/watch/70274015"
+				}
+			},
+			{
+				"episode": 20,
+				"title": "The One with the Evil Orthodontist",
+				"urls": {
+					"netflix": "/watch/70274016"
+				}
+			},
+			{
+				"episode": 21,
+				"title": "The One with the Fake Monica",
+				"urls": {
+					"netflix": "/watch/70274017"
+				}
+			},
+			{
+				"episode": 22,
+				"title": "The One with the Ick Factor",
+				"urls": {
+					"netflix": "/watch/70274018"
+				}
+			},
+			{
+				"episode": 23,
+				"title": "The One with the Birth",
+				"urls": {
+					"netflix": "/watch/70274019"
+				}
+			},
+			{
+				"episode": 24,
+				"title": "The One Where Rachel Finds Out",
+				"urls": {
+					"netflix": "/watch/70274020"
+				}
+			}
+		]
+	},
+	{
+		"season": 2,
+		"episodes": [
+			{
+				"episode": 1,
+				"title": "The One with Ross's New Girlfriend",
+				"urls": {
+					"netflix": "/watch/70274021"
+				}
+			},
+			{
+				"episode": 2,
+				"title": "The One with the Breast Milk",
+				"urls": {
+					"netflix": "/watch/70274022"
+				}
+			},
+			{
+				"episode": 3,
+				"title": "The One Where Heckles Dies",
+				"urls": {
+					"netflix": "/watch/70274023"
+				}
+			},
+			{
+				"episode": 4,
+				"title": "The One with Phoebe's Husband",
+				"urls": {
+					"netflix": "/watch/70274024"
+				}
+			},
+			{
+				"episode": 5,
+				"title": "The One with Five Steaks and an Eggplant",
+				"urls": {
+					"netflix": "/watch/70274025"
+				}
+			},
+			{
+				"episode": 6,
+				"title": "The One with the Baby on the Bus",
+				"urls": {
+					"netflix": "/watch/70274026"
+				}
+			},
+			{
+				"episode": 7,
+				"title": "The One Where Ross Finds Out",
+				"urls": {
+					"netflix": "/watch/70274027"
+				}
+			},
+			{
+				"episode": 8,
+				"title": "The One with the List",
+				"urls": {
+					"netflix": "/watch/70274028"
+				}
+			},
+			{
+				"episode": 9,
+				"title": "The One with Phoebe's Dad",
+				"urls": {
+					"netflix": "/watch/70274029"
+				}
+			},
+			{
+				"episode": 10,
+				"title": "The One with Russ",
+				"urls": {
+					"netflix": "/watch/70274030"
+				}
+			},
+			{
+				"episode": 11,
+				"title": "The One with the Lesbian Wedding",
+				"urls": {
+					"netflix": "/watch/70274031"
+				}
+			},
+			{
+				"episode": 12,
+				"title": "The One After the Super Bowl: Part 1",
+				"urls": {
+					"netflix": "/watch/70274032"
+				}
+			},
+			{
+				"episode": 13,
+				"title": "The One After the Super Bowl: Part 2",
+				"urls": {
+					"netflix": "/watch/70274033"
+				}
+			},
+			{
+				"episode": 14,
+				"title": "The One with the Prom Video",
+				"urls": {
+					"netflix": "/watch/70274034"
+				}
+			},
+			{
+				"episode": 15,
+				"title": "The One Where Ross and Rachel...You Know",
+				"urls": {
+					"netflix": "/watch/70274035"
+				}
+			},
+			{
+				"episode": 16,
+				"title": "The One Where Joey Moves Out",
+				"urls": {
+					"netflix": "/watch/70274036"
+				}
+			},
+			{
+				"episode": 17,
+				"title": "The One Where Eddie Moves In",
+				"urls": {
+					"netflix": "/watch/70274037"
+				}
+			},
+			{
+				"episode": 18,
+				"title": "The One Where Dr. Ramoray Dies",
+				"urls": {
+					"netflix": "/watch/70274038"
+				}
+			},
+			{
+				"episode": 19,
+				"title": "The One Where Eddie Won't Go",
+				"urls": {
+					"netflix": "/watch/70274039"
+				}
+			},
+			{
+				"episode": 20,
+				"title": "The One Where Old Yeller Dies",
+				"urls": {
+					"netflix": "/watch/70274040"
+				}
+			},
+			{
+				"episode": 21,
+				"title": "The One with the Bullies",
+				"urls": {
+					"netflix": "/watch/70274041"
+				}
+			},
+			{
+				"episode": 22,
+				"title": "The One with the Two Parties",
+				"urls": {
+					"netflix": "/watch/70274042"
+				}
+			},
+			{
+				"episode": 23,
+				"title": "The One with the Chicken Pox",
+				"urls": {
+					"netflix": "/watch/70274043"
+				}
+			},
+			{
+				"episode": 24,
+				"title": "The One with Barry and Mindy's Wedding",
+				"urls": {
+					"netflix": "/watch/70274044"
+				}
+			}
+		]
+	},
+	{
+		"season": 3,
+		"episodes": [
+			{
+				"episode": 1,
+				"title": "The One with the Princess Leia Fantasy",
+				"urls": {
+					"netflix": "/watch/70274045"
+				}
+			},
+			{
+				"episode": 2,
+				"title": "The One Where No One's Ready",
+				"urls": {
+					"netflix": "/watch/70274046"
+				}
+			},
+			{
+				"episode": 3,
+				"title": "The One with the Jam",
+				"urls": {
+					"netflix": "/watch/70274047"
+				}
+			},
+			{
+				"episode": 4,
+				"title": "The One with the Metaphorical Tunnel",
+				"urls": {
+					"netflix": "/watch/70274048"
+				}
+			},
+			{
+				"episode": 5,
+				"title": "The One with Frank Jr",
+				"urls": {
+					"netflix": "/watch/70274049"
+				}
+			},
+			{
+				"episode": 6,
+				"title": "The One with the Flashback",
+				"urls": {
+					"netflix": "/watch/70274050"
+				}
+			},
+			{
+				"episode": 7,
+				"title": "The One with the Race Car Bed",
+				"urls": {
+					"netflix": "/watch/70274051"
+				}
+			},
+			{
+				"episode": 8,
+				"title": "The One with the Giant Poking Device",
+				"urls": {
+					"netflix": "/watch/70274052"
+				}
+			},
+			{
+				"episode": 9,
+				"title": "The One with the Football",
+				"urls": {
+					"netflix": "/watch/70274053"
+				}
+			},
+			{
+				"episode": 10,
+				"title": "The One Where Rachel Quits",
+				"urls": {
+					"netflix": "/watch/70274054"
+				}
+			},
+			{
+				"episode": 11,
+				"title": "The One Where Chandler Can't Remember Which Sister",
+				"urls": {
+					"netflix": "/watch/70274055"
+				}
+			},
+			{
+				"episode": 12,
+				"title": "The One with All the Jealousy",
+				"urls": {
+					"netflix": "/watch/70274056"
+				}
+			},
+			{
+				"episode": 13,
+				"title": "The One Where Monica & Richard Are Just Friends",
+				"urls": {
+					"netflix": "/watch/70274057"
+				}
+			},
+			{
+				"episode": 14,
+				"title": "The One with Phoebe's Ex-Partner",
+				"urls": {
+					"netflix": "/watch/70274058"
+				}
+			},
+			{
+				"episode": 15,
+				"title": "The One Where Ross & Rachel Take a Break",
+				"urls": {
+					"netflix": "/watch/70274059"
+				}
+			},
+			{
+				"episode": 16,
+				"title": "The One The Morning After",
+				"urls": {
+					"netflix": "/watch/70274060"
+				}
+			},
+			{
+				"episode": 17,
+				"title": "The One Without the Ski Trip",
+				"urls": {
+					"netflix": "/watch/70274061"
+				}
+			},
+			{
+				"episode": 18,
+				"title": "The One with the Hypnosis Tape",
+				"urls": {
+					"netflix": "/watch/70274062"
+				}
+			},
+			{
+				"episode": 19,
+				"title": "The One with the Tiny T-Shirt",
+				"urls": {
+					"netflix": "/watch/70274063"
+				}
+			},
+			{
+				"episode": 20,
+				"title": "The One with the Dollhouse",
+				"urls": {
+					"netflix": "/watch/70274064"
+				}
+			},
+			{
+				"episode": 21,
+				"title": "The One with a Chick. And a Duck",
+				"urls": {
+					"netflix": "/watch/70274065"
+				}
+			},
+			{
+				"episode": 22,
+				"title": "The One with the Screamer",
+				"urls": {
+					"netflix": "/watch/70274066"
+				}
+			},
+			{
+				"episode": 23,
+				"title": "The One with Ross's Thing",
+				"urls": {
+					"netflix": "/watch/70274067"
+				}
+			},
+			{
+				"episode": 24,
+				"title": "The One with the Ultimate Fighting Champion",
+				"urls": {
+					"netflix": "/watch/70274068"
+				}
+			},
+			{
+				"episode": 25,
+				"title": "The One at the Beach",
+				"urls": {
+					"netflix": "/watch/70274069"
+				}
+			}
+		]
+	}
+]
