@@ -15,6 +15,6 @@ in Google Chrome.
 
 ### To-do
 - [ ] Flatten JSON file (include season in episode object)
-- [ ] Finish adding remaining seasons to JSON
+- [x] ~Finish adding remaining seasons to JSON~
 - [ ] Add episode descriptions to JSON
 - [ ] Apple TV app?
