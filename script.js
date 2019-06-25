@@ -39,7 +39,28 @@ var getRandomEpisode = function() {
   // Update the header
   $('h1').text(randomItem(headings));
   
+  // Update the elements for data tracking
+  $('a, button', '.card').data({
+    episode: episode.episode + ' - ' + episode.title,
+    season: season.season
+  });
+  
   // TODO: Add episode descriptions to JSON and load them into card
+};
+
+// event tracking
+var trackCardClick = function($target) {
+  var action = $target.data('gaAction');
+  var label  = $target.data('episode');
+  var value  = $target.data('season');
+  var event  = {
+    eventCategory: 'Card Click',
+    eventAction: action, // button or link action
+    eventLabel: label, // episode number and name
+    eventValue: value // season
+  };
+  console.log(event);
+  window.ga('send', 'event', event);
 };
 
 // I don't love this name. What's better, or is there a better way to do this altogether?
@@ -50,6 +71,10 @@ var init = function() {
   $('.card.hidden').removeClass('hidden');
   
   // Bind UI handlers
+  $('a, button', '.card').on('click', function() {
+    trackCardClick($(this));
+  });
+  
   $('.card button').on('click', function() {
     getRandomEpisode();
   });

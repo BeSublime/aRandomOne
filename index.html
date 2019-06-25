@@ -1,15 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <script>
+      // HTTPS redirect
+      var host = "www.arandomone.com";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51391462-4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-51391462-4');
+    </script>
+    
     <title>A Random One!</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="description" content="A Random One is a random Friends episode generator which also includes Netflix links for easy viewing.">
+    
+    <meta property="og:title" content="A Random One!">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="A Random One is a random Friends episode generator which also includes Netflix links for easy viewing.">
+    <meta property="og:url" content="https://www.aRandomOne.com/">
+    <meta property="og:image" content="https://www.aRandomOne.com/favicon.png">
     
     <link href="https://unpkg.com/picnic" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Henny+Penny|Open+Sans|Covered+By+Your+Grace" rel="stylesheet">
     <link rel="stylesheet" href="/style.css">  
-    <link rel="apple-touch-icon" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/favicon.png">    
     <link rel="shortcut icon" type="image/png" href="/favicon.png"/>
     
     <script
@@ -24,14 +47,14 @@
 
       <article class="card hidden">
         <header>
-          <h3><a href="#" target="_blank">Cooking the trifle&hellip;</a></h3>
+          <h3><a href="#" target="_blank" data-ga-action="watch">Cooking the trifle&hellip;</a></h3>
         </header>
   <!--       <p>
           Episode description&hellip;
         </p> -->
         <footer>
-          <a class="button" href="#" target="_blank">Watch on Netflix</a>
-          <button class="warning">Another!</button>
+          <a class="button" href="#" target="_blank" data-ga-action="watch">Watch on Netflix</a>
+          <button class="warning" data-ga-action="another">Another!</button>
         </footer>
       </article>
 
