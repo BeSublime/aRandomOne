@@ -54,13 +54,12 @@ var trackCardClick = function($target) {
   var label  = $target.data('episode');
   var value  = $target.data('season');
   var event  = {
-    eventCategory: 'Card Click',
-    eventAction: action, // button or link action
-    eventLabel: label, // episode number and name
-    eventValue: value // season
+    'event_category': 'Card Click',
+    'event_label': label, 
+    'value': value
   };
 
-  window.ga('send', 'event', event);
+  window.gtag('event', action, event);
 };
 
 // I don't love this name. What's better, or is there a better way to do this altogether?
